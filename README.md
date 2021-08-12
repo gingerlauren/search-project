@@ -61,7 +61,7 @@ This site was built using github pages:
 
 1.Angular version 8.3.21
 
-2.Bootsrap Version 4.3.1
+2.Bootsrap Version 4.3.
 
 3.Javascript.
 
