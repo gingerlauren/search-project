@@ -59,7 +59,7 @@ This site was built using github pages:
 **The following include the list of technologies **
 
 
-1.Angular version 8.3.21
+1.Angular version 8.3.
 
 2.Bootsrap Version 4.3.1
 
