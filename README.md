@@ -54,7 +54,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 The following is the live link to the project "GithubSearch":https;https://github.com/gingerlauren/git-search.git
 This site was built using github pages:
  
-##### CODEBEAT
+##### CODEBEAT #####
 
 
 
